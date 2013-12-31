@@ -1,0 +1,3 @@
+[submodule "puppet/modules/solka"]
+	path = puppet/modules/solka
+	url = https://github.com/trashhalo/puppet-solka.git
